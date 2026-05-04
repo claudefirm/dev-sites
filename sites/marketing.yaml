@@ -1,0 +1,7 @@
+# claudefirm-com marketing site dev preview.
+# Replaces the pre-reconciler `dgruber/marketing` workspace
+# (deleted accidentally during the first reconciler smoke test).
+template: dev-site-vite-react
+git_repo_id: claudefirm/claudefirm-com
+expose_port: 5173
+description: "ClaudeFirm marketing site (claudefirm.com) dev preview."
