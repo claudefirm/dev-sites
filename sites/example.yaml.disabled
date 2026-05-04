@@ -1,0 +1,5 @@
+# Rename this to `<your-name>.yaml` to register a new dev site.
+template: dev-site-vite-react
+git_repo_id: claudefirm/claudefirm-com
+expose_port: 5173
+description: "Example dev site — copy this file as a starting point."
