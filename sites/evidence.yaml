@@ -1,0 +1,4 @@
+template: dev-site-vite-react
+git_repo_id: claudefirm/claudefirm-com
+expose_port: 5173
+description: "Show-the-work angle (Board-generated FOU-211 variant; branch variant-evidence)."
